@@ -1,3 +1,11 @@
+(GENERATIVE AI)
+
+I used generative AI as a learning and development tool to support this project. Generative AI was used to help explain concepts related to basketball analytics, NumPy, and pandas, and to clarify how to structure calculations for player performance metrics. It also assisted in simplifying and refactoring code, understanding while still meeting the project requirements, such as loading data into NumPy ndarrays and performing array-based data manipulation.
+
+In addition, generative AI was used to help write clear explanations of the code and summarize the purpose and functionality of different sections of the project. Rather than generating the dataset or final results, the AI served as a guide for understanding syntax, debugging logic, improving readability, and ensuring the calculations aligned with the project objectives. All final implementation decisions, code execution, and interpretation of results were completed by me, with generative AI acting as a supportive resource similar to a reference tool. I was struggling about installing kaggle, pandas, and numpy but generative AI helped me with my struggles. I also had a few errors like my file won't run and made a simple mistake by missing a parenthesis.
+
+
+
 # Numpy
 This analysis evaluates player performance by calculating field goal, three-point, and free throw accuracy, average points per minute, overall shooting accuracy, and average blocks and steals per game for each player in each season.
 
